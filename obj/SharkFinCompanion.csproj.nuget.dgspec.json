@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TOOLS\\sharkfin\\SharkFinCompanion.csproj": {}
+    "C:\\Projects\\sharkfin\\SharkFinCompanion.csproj": {}
   },
   "projects": {
-    "D:\\TOOLS\\sharkfin\\SharkFinCompanion.csproj": {
+    "C:\\Projects\\sharkfin\\SharkFinCompanion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TOOLS\\sharkfin\\SharkFinCompanion.csproj",
+        "projectUniqueName": "C:\\Projects\\sharkfin\\SharkFinCompanion.csproj",
         "projectName": "SharkFinCompanion",
-        "projectPath": "D:\\TOOLS\\sharkfin\\SharkFinCompanion.csproj",
-        "packagesPath": "C:\\Users\\genui\\.nuget\\packages\\",
-        "outputPath": "D:\\TOOLS\\sharkfin\\obj\\",
+        "projectPath": "C:\\Projects\\sharkfin\\SharkFinCompanion.csproj",
+        "packagesPath": "C:\\Users\\Genuine\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\sharkfin\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\genui\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Genuine\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -82,11 +75,11 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WPF": {
+            "Microsoft.WindowsDesktop.App": {
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }
